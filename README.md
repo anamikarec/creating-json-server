@@ -72,5 +72,5 @@ NOTE : After adding above lne of code your package.json will look like this
     "branch": "cse"
   }
 ```
-
+> RESOURCE:~
 https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d
